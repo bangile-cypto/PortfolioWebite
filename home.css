@@ -150,7 +150,7 @@ header .navbar ul li a:hover{
     justify-content: center;
     flex-flow: column;
     padding:0 15rem;
-    background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(Images/NQF\ 5\ Graduation.jpg);
+    background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(NQF\ 5\ Graduation.jpg);
     background-position: inherit;
     background-size: cover;
     color: #fff;
